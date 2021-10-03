@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CoffeeOrder
 
 You can use the [editor on GitHub](https://github.com/1998tapan/CoffeeOrder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
